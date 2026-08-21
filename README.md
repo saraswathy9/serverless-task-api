@@ -61,16 +61,3 @@ curl https://YOUR-URL/tasks
 
 ---
 
-## Files in this project
-- `lambda_function.py` — the code that runs
-- `iam-policy.json` — the permissions Lambda needs
-- `README.md` — this file
-
-## How to upload to GitHub
-1. Go to github.com → **New repository** → name it `serverless-task-api`
-2. Click **Add file → Create new file**
-3. Type the filename `lambda_function.py` → paste the code → **Commit**
-4. Repeat for `iam-policy.json` and `README.md`
-
-That's it — all 3 files above should be in your repo, nothing else needed.
-
