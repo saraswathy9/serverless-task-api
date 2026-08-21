@@ -61,3 +61,8 @@ curl https://YOUR-URL/tasks
 
 ---
 
+## Files in this project
+- `lambda_function.py` — the code that runs
+- `iam-policy.json` — the permissions Lambda needs
+- `README.md` — this file
+---
